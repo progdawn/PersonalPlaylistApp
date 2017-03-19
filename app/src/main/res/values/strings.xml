@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyersPersonalPlaylist</string>
+    <string name="txtTitle">Music Mutt</string>
+    <string name="txtSplash">Music Mutt</string>
+    <string name="btnBotW">Zelda BotW Theme</string>
+    <string name="btnDemonStone">Stand at Mithral Hall</string>
+    <string name="botw">Breath of the Wild Image</string>
+    <string name="demonStone">FR Demon Stone Image</string>
+    <string name="btnMetroid">Metroid Prime Theme</string>
+    <string name="metroid">Metroid Prime Image</string>
+    <string name="btnPause">Pause</string>
+</resources>
